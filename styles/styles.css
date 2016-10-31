@@ -1,0 +1,139 @@
+*{
+            padding: 0;
+            margin: 0;
+        }
+
+        h1, h2, h3, h4, h5, h6{
+            font-family: "Oswald";
+        }
+
+        p,li,td,th{
+            font-family: "Open Sans";
+        }
+
+        body{
+            background: #211E37;
+        }
+        #container{
+            background: white;
+            width: 960px;
+            margin: 100px auto 100px auto;
+            padding: 25px 50px;
+        }
+        #title-section h1{
+            font-size: 30px;
+            text-align: center;
+            margin-bottom: 50px;
+            font-weight: bold;
+            background-color: #344F5E;
+            color: white;
+            padding: 10px;
+        }
+        section{
+            margin: 75px 0 50px 0;
+        }
+
+        #intro{
+            text-align: center;
+        }
+
+        #intro p{
+            margin-top: 10px;
+        }
+
+        #where-otters-live{
+            text-align: center;
+        }
+
+        #where-otters-live h2{
+            margin-bottom: 15px;
+        }
+
+        section#where-otters-live table{
+            border: 3px solid #122738;
+            width: 100%;
+        }
+
+        section#where-otters-live table th{
+            background-color: #F4FCD4;
+            padding: 10px;
+        }
+
+        section#where-otters-live table td{
+            border: 1px solid #122738;
+            padding: 10px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
