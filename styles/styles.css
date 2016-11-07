@@ -35,6 +35,8 @@
 
         #intro{
             text-align: center;
+            max-height: 500px;
+            overflow: hidden;
         }
 
         #intro p{
@@ -62,6 +64,17 @@
         section#where-otters-live table td{
             border: 1px solid #122738;
             padding: 10px;
+        }
+
+        .video-content{
+            padding: 50px 0;
+        }
+
+        .fixed{
+            position: fixed;
+            top: 0;
+            left: 0;
+            width:100%;
         }
 
 
